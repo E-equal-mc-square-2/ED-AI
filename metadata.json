@@ -1,0 +1,6 @@
+{
+  "name": "Learn with Kilometres",
+  "description": "Multi-language education platform for language learners, school lessons, and interactive homework help.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["AI Tutoring", "Multi-language Support", "Progress Tracking"]
+}
